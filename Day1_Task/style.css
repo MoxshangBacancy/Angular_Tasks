@@ -1,22 +1,14 @@
-/* Basic reset */
-
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: #f4f4f9;
 }
 
-
-/* Header style */
-
 h1 {
     text-align: center;
     color: #333;
     margin-top: 30px;
 }
-
-
-/* Container styling */
 
 .todo-container {
     max-width: 400px;
@@ -27,9 +19,6 @@ h1 {
     border-radius: 12px;
     text-align: center;
 }
-
-
-/* Input styling */
 
 #task-input {
     width: 75%;
@@ -46,9 +35,6 @@ h1 {
     border-color: #007bff;
 }
 
-
-/* Button styling */
-
 #add-task-button {
     padding: 10px 15px;
     background-color: #007bff;
@@ -63,9 +49,6 @@ h1 {
 #add-task-button:hover {
     background-color: #e10505;
 }
-
-
-/* To-do list styling */
 
 #todo-list {
     list-style: none;
